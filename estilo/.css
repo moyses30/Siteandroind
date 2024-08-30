@@ -42,7 +42,7 @@
 }
 body {
    background-color: #0A5F16;
-    font-family:var(--fonte-padrao)
+    font-family:var(--fonte-padrao);
 }
 
 a.externo::after {
